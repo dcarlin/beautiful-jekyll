@@ -7,7 +7,7 @@ A small collection of simple PowerShell commands and scripts that I use periodic
 
 
 ## Get Active Directory Account Disabled
-- Search-ADAccount -UsersOnly -AccountDisabled | Get-ADUser -Properties Name, DistinguishedName, LastLogonDate | Select Name, DistinguishedName, LastLogonDate | Export-CSV C:\Users\User\Desktop\AccountDisabled.csv -NoTypeInformation
+- "Search-ADAccount -UsersOnly -AccountDisabled | Get-ADUser -Properties Name, DistinguishedName, LastLogonDate | Select Name, DistinguishedName, LastLogonDate | Export-CSV C:\Users\User\Desktop\AccountDisabled.csv -NoTypeInformation"
 
 ## Get Active Directory Account Expired
 - Search-ADAccount -UsersOnly -AccountExpired | Get-ADUser -Properties Name, DistinguishedName, LastLogonDate | Select Name, DistinguishedName, LastLogonDate | Export-CSV C:\Users\User\Desktop\AccountExpired.csv -NoTypeInformation
