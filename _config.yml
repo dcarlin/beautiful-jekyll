@@ -76,7 +76,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   #facebook: daattali
   github: dcarlin
   twitter: Derek_Carlin
@@ -103,7 +103,7 @@ share-links-active:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   email: true
   twitter: true
   linkedin: true
