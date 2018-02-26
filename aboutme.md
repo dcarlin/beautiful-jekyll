@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Derek Carlin: Security Analyst
+subtitle: Derek Carlin - Security Analyst
 ---
 
 My name is Inigo Montoya. I have the following qualities:
