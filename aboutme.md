@@ -4,13 +4,37 @@ title: About me
 subtitle: Derek Carlin - Security Analyst
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is ~~Oliver Queen~~ Derek Carlin. I'm a Martial Artist and a highly caffeinated, and sarcastic, Security Analyst. Perpetually in pursuit of InfoSec knowledge and improvement on both the offense and defense side of the field. I also proudly serve in the United States Air National Guard.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+---
 
-What else do you need?
+# Education / Certifications
+- Bachelor's of Science - Computer Science: Worcester State University
+- (Ongoing) Master's in Cybersecurity: Utica College
+- GIAC Certified Intrusion Analyst (GCIA)
+- GIAC Certified Enterprise Defender (GCED)
+- CompTIA Security+
+- CompTIA Network+
 
-### my history
+# Advanced Training
+- Penetration Testing With Kali Linux (PWK): Offensive Security
+- CISSP Preparation: Cybrary
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Skills
+- Bash, PowerShell, Python
+- Network Traffic Analysis
+- Malware Analysis
+- Incident Response
+- Vulnerability Management
+- Threat Intelligence
+- Security Auditing / Penetration Testing
+
+# Organizations
+- FBI Infragard: Boston Chapter
+- MA Air National Guard
+
+# Random Information
+- Studying Russian (Beginner)
+- MMO Gamer (WOW) - Resto Druid
+- Krav Maga, Taekwondo, Karate
+- Live on Coffee
