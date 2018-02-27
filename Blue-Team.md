@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blue Team Tools
+title: Blue Team
 ---
 
 This contains a list of Open Source / Free Blue Team Tools that I use daily, and have stored here for reference.
