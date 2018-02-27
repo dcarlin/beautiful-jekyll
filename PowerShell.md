@@ -16,7 +16,7 @@ Export-CSV C:\Users\User\Desktop\AccountDisabled.csv -NoTypeInformation
 
 ## Get Active Directory Account Expired
 ~~~
-earch-ADAccount -UsersOnly -AccountExpired | 
+Search-ADAccount -UsersOnly -AccountExpired | 
 Get-ADUser -Properties Name, DistinguishedName, LastLogonDate | 
 Select Name, DistinguishedName, LastLogonDate | 
 Export-CSV C:\Users\User\Desktop\AccountExpired.csv -NoTypeInformation
