@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Security Monitoring Checklist
+title: Breaking into the Cybersecurity Field
 tags: [Entry Level, Blue Team, Red Team]
 comments: true
 ---
 
-# Breaking into the Cybersecurity Field
-
-## “I want to get into Cybersecurity, where do I start?”
+# “I want to get into Cybersecurity, where do I start?”
            With an estimated One Million job openings in Cybersecurity in 2017 and a shortage of talent it is easy to see why so many people are drawn to the field. I myself made the switch from traditional IT to the Cybersecurity field within the last year, and when I started to consider making the switch I had the same questions that most job seekers have today. *Where do I start? What are my options? Why does the same job have over 5 different titles?* A year later as I am digging myself out of the not so figurative mountain of training material that I am engaged in, I find that now I am the one being asked those very same questions by friends and graduates trying to break into the field. In this article I will attempt to not only answer these questions, but to also provide guidance to those looking to gain entry to the field and grow their career.
 
 ## Introduction to the Security Field
