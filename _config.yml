@@ -27,8 +27,8 @@ navbar-links:
   
   Resources:
     - PowerShell: "PowerShell"
-    - Blue Team: "Blue Team Tools"
-    - Red Team: "Red Team Tools"
+    - Blue Team: "Blue-Team"
+    - Red Team: "Red-Team"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
