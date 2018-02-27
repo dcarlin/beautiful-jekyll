@@ -39,26 +39,48 @@ The actions of one APT group can have large, widespread impact on the world, as 
  
 ## References
 Arntz, P. (2016, July 25). Explained: Advanced Persistent Threat (APT). Retrieved November 10, 2017, from https://blog.malwarebytes.com/cybercrime/malware/2016/07/explained-advanced-persistent-threat-apt/
+
 Bertrand, N. (2017, April 25). The Russians are using 'a new style of attack' against France's frontrunner candidate. Retrieved November 10, 2017, from http://www.businessinsider.com/what-is-fancy-bear-russian-hacking-group-2017-4
+
 Donohue 177 posts  "We are what we pretend to be, so we must be careful about what we pretend to be." ― Kurt Vonnegut, B. (2014, November 25). Regin APT Attacks Among the Most Sophisticated Ever Analyzed. Retrieved November 10, 2017, from https://www.kaspersky.com/blog/regin-apt-most-sophisticated/6852/
+
 Dragonfly: Western Energy Companies Under Sabotage Threat. (n.d.). Retrieved November 10, 2017, from https://www.symantec.com/connect/blogs/dragonfly-western-energy-companies-under-sabotage-threat
+
 Goodin - Aug 11, 2017 6:19 pm UTC, D. (2017, August 11). Russian group that hacked DNC used NSA attack code in attack on hotels. Retrieved November 10, 2017, from https://arstechnica.com/information-technology/2017/08/dnc-hackers-from-russia-used-nsa-developed-attack-code-in-attack-on-hotels/
+
 GReAT. (2014, November 24). Regin: Nation-state ownage of GSM networks. Retrieved November 10, 2017, from https://securelist.com/regin-nation-state-ownage-of-gsm-networks/67741/
+
 GReAT. (2016, August 08). ProjectSauron: top level cyber-espionage platform covertly extracts encrypted government comms. Retrieved November 10, 2017, from https://securelist.com/faq-the-projectsauron-apt/75533/
+
 Greenberg, A. (2017, November 08). Russia's 'Fancy Bear' Hackers Exploit a Microsoft Office Flaw-and NYC Terrorism Fears. Retrieved November 10, 2017, from https://www.wired.com/story/russia-fancy-bear-hackers-microsoft-office-flaw-and-nyc-terrorism-fears/
+
 Greenberg, A. (2017, June 02). NSA Director Confirms That Russia Really Did Hack the French Election. Retrieved November 10, 2017, from https://www.wired.com/2017/05/nsa-director-confirms-russia-hacked-french-election-infrastructure/
+
 Henry, P. (2017). SANS SEC501: Advanced Security Essentials – Enterprise Defender. SANS Institute.
+
 Higgins, K. (n.d.). 'Energetic' Bear Under The Microscope. Retrieved November 10, 2017, from https://www.darkreading.com/attacks-breaches/energetic-bear-under-the-microscope/d/d-id/1297712
+
 Lawler, R. (2017, April 15). 'Shadow Brokers' dump of NSA tools includes new Windows exploits (updated). Retrieved November 10, 2017, from https://www.engadget.com/2017/04/14/shadow-brokers-dump-windows-zero-day/
+
 Martin, S. (n.d.). 8 Active APT Groups To Watch. Retrieved November 10, 2017, from https://www.darkreading.com/endpoint/8-active-apt-groups-to-watch/d/d-id/1325161?image_number=5
+
 Nelson, N. (2016, January 18). The Impact of Dragonfly Malware on Industrial Control Systems [PDF]. The SANS Institute.
+
 Olenick, D. (2017, April 25). Trend Micro breaks down Pawn Storm tactics, methods and goals. Retrieved November 10, 2017, from https://www.scmagazine.com/trend-micro-breaks-down-pawn-storm-tactics-methods-and-goals/article/652841/
+
 Olenick, D. (2017, November 08). Sowbug APT uses Felismus backdoor to for cyberespionage operations. Retrieved November 10, 2017, from https://www.scmagazine.com/sowbug-apt-uses-felismus-backdoor-to-for-cyberespionage-operations/article/705998/
+
 Paganini, P. (2017, November 08). Symantec uncovered a new APT, the cyber espionage Sowbug group. Retrieved November 10, 2017, from http://securityaffairs.co/wordpress/65293/apt/sowbug-group-apt.html
+
 Perez, J. C. (2017, August 07). CyberSecurity Report: Threat Landscape Gets More Sophisticated. Retrieved November 10, 2017, from https://blog.qualys.com/news/2017/08/07/cybersecurity-report-threat-landscape-gets-more-sophisticated
+
 Poulsen, K. (2017, October 23). Russia's Election Hackers Use D.C. Cyber Warfare Conference as Bait. Retrieved November 10, 2017, from https://www.thedailybeast.com/russias-election-hackers-use-dc-cyber-warfare-conference-as-bait
+
 Sowbug: Cyber espionage group targets South American and Southeast Asian governments. (n.d.). Retrieved November 10, 2017, from https://www.symantec.com/connect/blogs/sowbug-cyber-espionage-group-targets-south-american-and-southeast-asian-governments
+
 Supply chain attacks. (2017, September 01). Retrieved November 10, 2017, from https://www.enisa.europa.eu/publications/info-notes/supply-chain-attacks
+
 The Attribution Problem in Cyber Attacks. (2013, July 19). Retrieved November 10, 2017, from http://resources.infosecinstitute.com/attribution-problem-in-cyber-attacks/#gref
+
 Zetter, K. (2017, June 02). Researchers Uncover Government Spy Tool Used to Hack Telecoms and Belgian Cryptographer. Retrieved November 10, 2017, from https://www.wired.com/2014/11/mysteries-of-the-malware-regin/
 
