@@ -14,7 +14,7 @@ The first thing we need to do is gather as much information as possible as to th
 
 <img src="/img/RFQ.png">
 
-Definitely suspicious. Sending '.htm' files via email is a standard practice for spammers, and this email resembles a general template that can be found out on the web. If there was any doubt that 'captainjack@sparrow.com' was compromised it has now been alleviated. The damage has been done and contained though by locking down the account, so lets grab the file being sent out and run it through a quick analysis on Virus Total (note that here we are not concerned about letting the attack know that we have his/her sample) and see what we are dealing with. Additionally, lets grab the hash and blacklist it on our network and use it to search across our endpoints to see if any other users were exposed to the file before we had the chance to blacklist it. Thankfully, in the case, no one else was exposed.
+Definitely suspicious. Sending '.htm' files via email is a standard practice for spammers, and this email resembles a general template that can be found out on the web. If there was any doubt that 'captainjack@sparrow.com' was compromised it has now been alleviated. The damage has been done and contained though by locking down the account, so lets grab the file being sent out and run it through a quick analysis on Virus Total (note that here we are not concerned about letting the attacker know that we have his/her sample) and see what we are dealing with. Additionally, lets grab the hash and blacklist it on our network and use it to search across our endpoints to see if any other users were exposed to the file before we had the chance to blacklist it. Thankfully, in the case, no one else was exposed.
 
 <img src="/img/VT.png">
 
