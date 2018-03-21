@@ -3,7 +3,7 @@ layout: post
 title: Email Compromise Analysis
 subtitle: From the trenches
 tags: [Blue Team, Analyst]
-image: https://documents.trendmicro.com/images/tex/blogicons/spam2.jpg
+image: "/img/spam2.jpg"
 share-img: https://documents.trendmicro.com/images/tex/blogicons/spam2.jpg
 comments: true
 ---
