@@ -3,6 +3,8 @@ layout: post
 title: Phishing Email Analysis
 subtitle: They clicked the link!
 tags: [Blue Team, Analyst, From the trenches]
+image: "/img/Phishing Analysis Pictures/Phishing_Site.png"
+share-img: "/img/Phishing Analysis Pictures/Phishing_Site.png"
 comments: true
 ---
 
