@@ -7,7 +7,7 @@ share-img: "/img/Phishing Analysis Pictures/Phishing_Site.png"
 comments: true
 ---
 
-An alert for a phishing email is received where a user clicked a link! Oh no!
+An alert for a phishing email is received where a user clicked a link! Joy.
 
 ## To Do:
 1. Query for a list of users who received this email and alert them to it, advise them not to click on any links or download any attachments.
