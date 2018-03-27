@@ -8,7 +8,7 @@ share-img: "/img/Phishing Analysis Pictures/Phishing_Site.png"
 comments: true
 ---
 
-An alert for a phishing email is received where a user clicked a link! Joy.
+An alert for a phishing email is received where a user clicked a link! Joy. This is how I, and most other analysts like me, start their days. Usually with some measure of fire, and an equal degree of uncertainty as to the scope of impact. Phishing emails are fairly straight forward for the most part though, lets dive in and start the analysis and remediation process.
 
 ## To Do:
 1. Query for a list of users who received this email and alert them to it, advise them not to click on any links or download any attachments.
