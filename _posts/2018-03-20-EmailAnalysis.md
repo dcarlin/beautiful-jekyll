@@ -3,6 +3,7 @@ layout: post
 title: Email Compromise Analysis
 subtitle: From the trenches
 tags: [Blue Team, Analyst, From the trenches]
+image: "/img/spam2.jpg"
 share-img: "/img/spam2.jpg"
 comments: true
 ---
