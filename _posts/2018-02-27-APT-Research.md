@@ -3,6 +3,8 @@ layout: post
 title: APT Research
 subtitle: It's not just Bears that roam these woods.
 tags: [Offense, Nation State, APT]
+image: "/ing/AnchorPanda_0.png"
+share-img: "/ing/AnchorPanda_0.png"
 comments: true
 ---
 
