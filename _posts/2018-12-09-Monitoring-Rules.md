@@ -77,15 +77,16 @@ Monitor how your sites are configured and modified.
 ### Recommendations for new rules
 As you can see, the rule creation here is pretty bare bones and leaves a lot to be desired. But hey, Microsoft wants you to upgrade to their fancy new Cloud App Security solution and shell out some more money to get those extra security monitoring features. Honestly though, it's worth it. And this is coming from someone who is anti - Microsoft. We'll delve into Cloud App Security more in the next post, but for now lets go through some of the low hanging fruit we can target inside this portal.
 
-	1. Create a rule around Executive Email Forwarding. 
-	This means that the security team will be alerted anytime someone in Senior Management, or who is a department leader has their email account modified to forward or redirect their mail to another email account. You can expand this out to meet the needs of your environment.
+#### 1. Create a rule around Executive Email Forwarding. 
+This means that the security team will be alerted anytime someone in Senior Management, or who is a department leader has their email account modified to forward or redirect their mail to another email account. You can expand this out to meet the needs of your environment.
 
-	2. Create a rule around receiving Similar Domain Emails. 
-	Here I recommend using a tool to enumerate registered and unregistered domains related to your company (dnstwist works amazing, link below). This will alert you anytime an employee receives an email from a domain that looks similar to your company's (often attackers do this to get around anti-spoof rules and try and trick your employees). For example, if my company's domain was @CyberKittenz.com I would want to know if my folks received an email from @CyberKiittenz.com.
+#### 2. Create a rule around receiving Similar Domain Emails. 
+Here I recommend using a tool to enumerate registered and unregistered domains related to your company (dnstwist works amazing, link below). This will alert you anytime an employee receives an email from a domain that looks similar to your company's (often attackers do this to get around anti-spoof rules and try and trick your employees). For example, if my company's domain was @CyberKittenz.com I would want to know if my folks received an email from @CyberKiittenz.com.
 	
-	3. This isn't a rule you can create, but by default (I still haven't found where I can edit the settings for this) O365 will block user accounts that have been identified as sending too many messages that get marked as spam/bulk. I'd keep an eye on this section, as it's a good bet that if a user gets blocked for this, they have been compromised. You can find this under Threat Management --> Review --> Restricted Users.
+#### 3. Monitor Restricted Users
+This isn't a rule you can create, but by default (I still haven't found where I can edit the settings for this) O365 will block user accounts that have been identified as sending too many messages that get marked as spam/bulk. I'd keep an eye on this section, as it's a good bet that if a user gets blocked for this, they have been compromised. You can find this under Threat Management --> Review --> Restricted Users.
 
-<img src="/img/SecurityCompliance/RestrictedUsers.png>"
+<img src="/img/SecurityCompliance/RestrictedUsers.png">
 
 
 That's all I have for you on the Security and Compliance center. There are a boat load of more features inside Cloud App Security, and I have far more rule recommendations that I will get into under that section. Most of which revolve around detecting when your users are the target of identity compromise and when they have actually been compromised. I'll also be writing up another article similar to my 'Email Compromise Analysis' writeup focusing on triaging user compromise from the custom rule recommendations I'll lay out.
