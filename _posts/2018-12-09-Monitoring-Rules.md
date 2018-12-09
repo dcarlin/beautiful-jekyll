@@ -56,6 +56,8 @@ There are various alert activity settings that can be monitored in our policies,
 
 <img src="/img/SecurityCompliance/SimilarDomain.png">
 
+#### Categories For New Alert Creation:
+
 ##### Common User Activities
 Such as detecting malware in a file, sharing a file or folder, or granting of mailbox permissions.
 You can create rules under this category focused around monitoring specific SharePoint archives or specific users sharing out files externally. There's not a whole lot extra that needs to be done with this section, a the default policies take care of most of the grunt work.
