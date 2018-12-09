@@ -8,7 +8,7 @@ share-img: "/img/SecurityCompliance/SimilarDomain.png"
 comments: true
 ---
 
-Continuing on where we left off during our overview of the Security and Compliance center, we return to explore the capabilities contained within the default alerting structure, and the flow of how to create custom alerts. Lets delve right in.
+Continuing on where we left off during our overview of the Security and Compliance center, we return to explore the capabilities contained within the default alerting structure, and the flow of how to create custom alerts. Let's dive right in.
 
 ### Default Alert Rules (Policies)
 The alerting structure in both the security center and cloud app security are broken down into High, Medium, and Low severity, and the baseline categories they are organized into are 'Data loss prevention', 'Threat Management', 'Data governance', 'Permissions', 'Mail Flow', and 'Others'. The types of alerting policies that can be created in both environments are similar, with the O365 Security & Compliance center focusing in on activities inside the email environment, and Cloud App Security acting more as a CASB solution, though at times the water does get muddy around "what should I do in which console". To that, my answer is if you have Cloud App Security, use that for everything you can.
