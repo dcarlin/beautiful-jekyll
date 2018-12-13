@@ -28,6 +28,7 @@ navbar-links:
   Resources:
     - PowerShell: "PowerShell"
     - Blue Team: "Blue-Team"
+    - Incident Response: "Incident-Response"
     - Podcasts: "Podcasts"
   #Author's home: "http://deanattali.com"
 
