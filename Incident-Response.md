@@ -11,15 +11,15 @@ Below are the VM's that I have setup on my laptop at any given time, to be used 
 - **Win 7 or Win 10**
 		○ Malware Analysis Tools
 - **Ubuntu**
-	○ CRITs
+	- CRITs
 		-  Malware Analysis Platform
-	○ The Hive 
+	- The Hive 
 		- Analyst / TTP Casebook
-	○ Cuckoo Sandbox
+	- Cuckoo Sandbox
 		- Malware Analysis Sandbox
-	○ Google Rapid Response (GRR)
+	- Google Rapid Response (GRR)
 		- Clients deployed to machines, server running interrogation.
-	○ Network Traffic Analysis Tools
+	- Network Traffic Analysis Tools
 - **Security Onion**
 	- Intrusion Detection System bundle that includes Snort, Bro, and Suricata.
 - **Kali Linux**
@@ -28,42 +28,42 @@ Below are the VM's that I have setup on my laptop at any given time, to be used 
 
 ### Forensics Tools
 - Google Rapid Response (Agent/Server)
-	○ Incident response framework focused on remote live forensics
+	- Incident response framework focused on remote live forensics
 - CimSweep
-	○ Remotely obtain the following from all versions of windows; requires Admin creds. (PowerShell).
-	○ Registry keys, values, value types, and value content with optional recursion 
-	○ Directory and file listing with optional recursion, Event log entries, Services, Processes
+	- Remotely obtain the following from all versions of windows; requires Admin creds. (PowerShell).
+	- Registry keys, values, value types, and value content with optional recursion 
+	- Directory and file listing with optional recursion, Event log entries, Services, Processes
 - FTK Imager
-	○ Hard drive and memory imaging tool
+	- Hard drive and memory imaging tool
 - Reg Ripper
-	○ Exports the contents of the registry
+	- Exports the contents of the registry
 - Autopsy / Sleuth Kit
-	○ Memory forensics / timelining tool.
+	- Memory forensics / timelining tool.
 - Mandiant Redline
 	- IOC Extractor
 	
 ### Malware Discovery and Removal Tools
 - Malwarebytes
-	○ Anti Virus Tool
+	- Anti Virus Tool
 - Malwarebytes Anti RootKit
-	○ Rootkit discovery
+	- Rootkit discovery
 - Adware Cleaner
-	○ Adware Cleaner
+	- Adware Cleaner
 - Super Anti Spyware
-	○ Spyware / Adware Cleaner
+	- Spyware / Adware Cleaner
 - Spybot
-	○ Spyware cleaner
+	- Spyware cleaner
 - Crowd Inspect
-	○ Process Inspection Tool (Virus Total tie in)
+	- Process Inspection Tool (Virus Total tie in)
 - Hijack This - Portable
 	- Searches for evidence of web hijacking
 
 ### USB Drive's
 - Bootable Linux Distro 
-	○ Kali, Ubuntu or SIFT
+	- Kali, Ubuntu or SIFT
 - Break Glass IR USB
-	○ AV Tools
-	○ Forensics Tools
-	○ Malware Analysis Tools
+	- AV Tools
+	- Forensics Tools
+	- Malware Analysis Tools
 	- Sys Internals Suite
 	
