@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blue Team
+title: Incident Response
 ---
 
 This page contains a list of the open source / free Incident Response tools that I've used in the past and can be compiled for use for those just starting out. Most of these tools I still use today, although there are a lot of paid / proprietary tools that I now also have access to that are not mentioned here. Most of the Incident Response that I do is focused on Malware Eradication and Recovery, I've only had to conduct forensics with the intent of legal proceedings once. So keep that in mind when you review this list for your own use.
