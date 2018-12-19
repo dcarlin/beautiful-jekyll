@@ -3,8 +3,8 @@ layout: post
 title: Insight into SecOps
 subtitle: Purple by default
 tags: [Purple Team, Blue Team, Insight]
-image: "/img/SOC_Functions.png"
-share-img: "/img/SOC_Functions.png"
+image: "/img/SecOpsDay/YellAtCloud.png"
+share-img: "/img/SecOpsDay/YellAtCloud.png"
 comments: true
 ---
 
