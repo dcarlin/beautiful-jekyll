@@ -17,33 +17,33 @@ Below I've shared a screengrab from the SANS Security Leadership Poster regardin
 ### Standard Analyst Duties (Blue Team!)
 Here we have the bread and butter responsibilities of a Security Analyst; monitoring the SIEM and the EDR environment, triaging alerts, looking for signs of compromise and determining where remediation actions are necessary. In addition to these tools, I also work with our Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), Anti-Virus platforms, Cloud Access Security Broker (CASB) solution, Email Protection / Anti-Phishing Services, and our Vulnerability Management tools. This involves triaging alerts and discovered vulnerabilities from the tools, as well as maintaining stability and upgrades, tuning the rule bases, and creating new rules for them. Lastly in the bread and butter category, we have the daily tickets that need to be responded to, usually telling us that we are the bane of someone's existance and making their job harder, and that we need to fix something.
 
--SIEM
--IDS
--IPS
--EDR
--AV
--CASB
--Vulnerability Management
--Tickets
+- SIEM
+- IDS
+- IPS
+- EDR
+- AV
+- CASB
+- Vulnerability Management
+- Tickets
 
 ### Proactive Security (Red Team!)
 Really it's "Red Team - Lite", and revolves around three major points; security awareness testing/training, penetration testing, and cloud identity audits. Penetration testing and auditing I tend to do bi-yearly, and the awareness training and cloud audits I do daily and monthly respectively. Awareness training comes in many forms, from encouring employees to report suspicious emails, to plugging in Rubber Ducky USB's that rickroll people who leave their machines unlocked; I take great enjoyment in this. The cloud audits I have running on a script, spraying for default/common passwords monthly, and auto generating remediation tickets.
 
--Cloud Identity Audits
--Penetration Testing
--Phishing Assessments
--Security Awareness Checks
--Proactive Risk Assessments
+- Cloud Identity Audits
+- Penetration Testing
+- Phishing Assessments
+- Security Awareness Checks
+- Proactive Risk Assessments
 
 
 ### Incident Response Work
 Remediating malware infections and Identity Compromises, conducting investigations for legal, and engaging with employees on threat remediation takes the bulk of this category. Once an infection/compromise is found, IOC's are obtained and used to hunt across the environment for other infections or evidence of lateral movement. IOC's come in many forms, from hashes, to contacted IP Addresses, registry edits, mailbox rule creations, etc.
 
--Malware/Suspicious Software Analysis
--Malware Remediation
--Malware IOC Generation and hunting
--Identity Compromise Remediation
--General Fire-Fighting
+- Malware/Suspicious Software Analysis
+- Malware Remediation
+- Malware IOC Generation and hunting
+- Identity Compromise Remediation
+- General Fire-Fighting
 
 
 ### Threat Hunting
