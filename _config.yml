@@ -27,8 +27,8 @@ navbar-links:
   
   Resources:
     - PowerShell: "PowerShell"
-    - Blue Team: "Blue-Team"
-    - Incident Response: "Incident-Response"
+    - Malware Analysis Tools: "Malware-Analysis"
+    - Incident Response Tools: "Incident-Response"
     - Podcasts: "Podcasts"
   #Author's home: "http://deanattali.com"
 
