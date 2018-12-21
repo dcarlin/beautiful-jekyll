@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FISMA and NIST Notes
-subtitle: Focus: Risk Management Framework
+subtitle: Focus - Risk Management Framework
 tags: [Blue Team, Compliance]
 image: "/img/FISMA_NIST/Risk_Pyramid.png"
 share-img: "/img/FISMA_NIST/Risk_Pyramid.png"
